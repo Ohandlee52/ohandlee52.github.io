@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ohandlee52.github.io/sitemap.xml
